@@ -1,0 +1,5 @@
+{
+  "name": "ProphetAI House Predictor",
+  "description": "An advanced real estate analytics and price prediction platform using regression models and Gemini AI for deep market insights.",
+  "requestFramePermissions": []
+}
